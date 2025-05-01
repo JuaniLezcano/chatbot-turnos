@@ -6,7 +6,7 @@ Este proyecto corresponde al trabajo final de la materia **Desarrollo de Softwar
 ## 📦 Tecnologías utilizadas
 
 - **Python 3**
-- **Flask** (o el framework web que estés usando)
+- **Flask**
 - **Docker**
 - **Docker Compose**
 
